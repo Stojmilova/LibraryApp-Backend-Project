@@ -1,0 +1,1364 @@
+
+09:30:27 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+09:30:27 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+09:30:27 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+09:30:28 [Information] () Request finished in 49.7765ms 200 
+
+09:30:28 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+09:30:28 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+09:30:28 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.3028ms.
+
+09:30:28 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+09:30:28 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 103.9135ms
+
+09:30:28 [Information] () Request finished in 487.0004ms 200 application/json; charset=utf-8
+
+09:30:28 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+09:30:28 [Information] () Request finished in 1.3084ms 404 
+
+10:40:36 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+10:40:37 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+10:40:37 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+10:40:38 [Information] () Request finished in 204.7506ms 200 
+
+10:40:38 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+10:40:38 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+10:40:38 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.4898ms.
+
+10:40:38 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+10:40:38 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 154.629ms
+
+10:40:38 [Information] () Request finished in 888.539ms 200 application/json; charset=utf-8
+
+11:38:05 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+11:38:06 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+11:38:06 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+11:38:06 [Information] () Request finished in 64.175ms 200 
+
+11:38:06 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+11:38:06 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+11:38:06 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.3009ms.
+
+11:38:06 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+11:38:07 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 157.8919ms
+
+11:38:07 [Information] () Request finished in 838.4224ms 200 application/json; charset=utf-8
+
+12:48:35 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+12:48:36 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+12:48:36 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+12:48:36 [Information] () Request finished in 82.6555ms 200 
+
+12:48:37 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+12:48:37 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+12:48:37 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.5728ms.
+
+12:48:37 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+12:48:37 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 139.3984ms
+
+12:48:37 [Information] () Request finished in 707.4926ms 200 application/json; charset=utf-8
+
+17:29:16 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+17:29:16 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+17:29:16 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+17:29:16 [Information] () Request finished in 36.2784ms 200 
+
+17:29:17 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+17:29:17 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+17:29:17 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.3327ms.
+
+17:29:17 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+17:29:17 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 105.9228ms
+
+17:29:17 [Information] () Request finished in 420.9425ms 200 application/json; charset=utf-8
+
+17:29:17 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+17:29:17 [Information] () Request finished in 2.0052ms 404 
+
+17:48:28 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+17:48:29 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+17:48:29 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+17:48:29 [Information] () Request finished in 33.9414ms 200 
+
+17:48:29 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+17:48:29 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+17:48:29 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.3153ms.
+
+17:48:29 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+17:48:29 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 85.8885ms
+
+17:48:29 [Information] () Request finished in 431.3216ms 200 application/json; charset=utf-8
+
+17:51:26 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+17:51:26 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+17:51:26 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+17:51:26 [Information] () Request finished in 43.1441ms 200 
+
+17:51:27 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+17:51:27 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+17:51:27 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.1763ms.
+
+17:51:27 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+17:51:27 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 122.5898ms
+
+17:51:27 [Information] () Request finished in 551.8874ms 200 application/json; charset=utf-8
+
+19:12:27 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+19:12:28 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+19:12:28 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+19:12:28 [Information] () Request finished in 46.5251ms 200 
+
+19:12:28 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+19:12:28 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+19:12:28 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.1984ms.
+
+19:12:28 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+19:12:28 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 69.2503ms
+
+19:12:28 [Information] () Request finished in 369.9965ms 200 application/json; charset=utf-8
+
+19:12:28 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+19:12:28 [Information] () Request finished in 1.437ms 404 
+
+19:47:55 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:47:55 [Information] () Policy execution successful.
+
+19:47:55 [Information] () Request finished in 17.2377ms 204 
+
+19:47:55 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:47:55 [Information] () Policy execution successful.
+
+19:47:55 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:47:55 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:47:56 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:47:56 [Information] () Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:47:56 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 549.1688ms.
+
+19:47:56 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:47:56 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 750.4992ms
+
+19:47:56 [Information] () Request finished in 773.8176ms 200 application/json; charset=utf-8
+
+19:48:04 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:48:04 [Information] () Policy execution successful.
+
+19:48:04 [Information] () Request finished in 0.9829ms 204 
+
+19:48:04 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 49
+
+19:48:04 [Information] () Policy execution successful.
+
+19:48:04 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:48:04 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:48:04 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:48:04 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:48:04 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 40.3653ms.
+
+19:48:04 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+19:48:04 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 48.0075ms
+
+19:48:04 [Information] () Request finished in 50.3371ms 404 application/json; charset=utf-8
+
+19:50:11 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:50:11 [Information] () Policy execution successful.
+
+19:50:11 [Information] () Request finished in 4.518ms 204 
+
+19:50:11 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:50:11 [Information] () Policy execution successful.
+
+19:50:11 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:50:11 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:50:11 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:50:11 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:50:11 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.4647ms.
+
+19:50:11 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:50:11 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.297ms
+
+19:50:11 [Information] () Request finished in 7.7853ms 200 application/json; charset=utf-8
+
+19:52:43 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:52:43 [Information] () Policy execution successful.
+
+19:52:43 [Information] () Request finished in 0.3269ms 204 
+
+19:52:43 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:52:43 [Information] () Policy execution successful.
+
+19:52:43 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:52:43 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:52:43 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:52:43 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:52:43 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 4.8195ms.
+
+19:52:43 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+19:52:43 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 6.128ms
+
+19:52:43 [Information] () Request finished in 6.73ms 404 application/json; charset=utf-8
+
+19:54:27 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:54:27 [Information] () Policy execution successful.
+
+19:54:27 [Information] () Request finished in 0.622ms 204 
+
+19:54:27 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:54:27 [Information] () Policy execution successful.
+
+19:54:27 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:54:27 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:54:27 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:54:27 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:54:27 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 2.8841ms.
+
+19:54:27 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+19:54:27 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.5302ms
+
+19:54:27 [Information] () Request finished in 4.0501ms 404 application/json; charset=utf-8
+
+19:54:37 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:54:37 [Information] () Policy execution successful.
+
+19:54:37 [Information] () Request finished in 0.2715ms 204 
+
+19:54:37 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:54:37 [Information] () Policy execution successful.
+
+19:54:37 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:54:37 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:54:37 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:54:37 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:54:37 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 7.387ms.
+
+19:54:37 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:54:37 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 9.7942ms
+
+19:54:37 [Information] () Request finished in 11.7195ms 200 application/json; charset=utf-8
+
+19:56:18 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+19:56:19 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+19:56:19 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+19:56:19 [Information] () Request finished in 38.8375ms 200 
+
+19:56:19 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+19:56:19 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+19:56:19 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.1881ms.
+
+19:56:19 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+19:56:19 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 91.3326ms
+
+19:56:19 [Information] () Request finished in 428.1153ms 200 application/json; charset=utf-8
+
+19:56:20 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+19:56:20 [Information] () Request finished in 1.0125ms 404 
+
+19:56:46 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:56:46 [Information] () Policy execution successful.
+
+19:56:46 [Information] () Request finished in 1.9263ms 204 
+
+19:56:46 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:56:46 [Information] () Policy execution successful.
+
+19:56:46 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:56:46 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:56:46 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:56:46 [Information] () Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:56:46 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 348.5397ms.
+
+19:56:46 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:56:46 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 469.5298ms
+
+19:56:46 [Information] () Request finished in 486.7966ms 200 application/json; charset=utf-8
+
+19:57:32 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:57:32 [Information] () Policy execution successful.
+
+19:57:32 [Information] () Request finished in 0.4632ms 204 
+
+19:57:32 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:57:32 [Information] () Policy execution successful.
+
+19:57:32 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:57:32 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:57:32 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:57:32 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:57:32 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 28.7164ms.
+
+19:57:32 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:57:32 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 41.9862ms
+
+19:57:32 [Information] () Request finished in 42.6483ms 200 application/json; charset=utf-8
+
+19:58:24 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:58:24 [Information] () Policy execution successful.
+
+19:58:24 [Information] () Request finished in 0.5194ms 204 
+
+19:58:24 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:58:24 [Information] () Policy execution successful.
+
+19:58:24 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:58:24 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:58:24 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:58:24 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:58:24 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.3736ms.
+
+19:58:24 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:58:24 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.2344ms
+
+19:58:24 [Information] () Request finished in 3.8889ms 200 application/json; charset=utf-8
+
+19:59:49 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+19:59:49 [Information] () Policy execution successful.
+
+19:59:49 [Information] () Request finished in 0.3968ms 204 
+
+19:59:49 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+19:59:49 [Information] () Policy execution successful.
+
+19:59:49 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+19:59:49 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+19:59:49 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+19:59:49 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+19:59:49 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.8533ms.
+
+19:59:49 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+19:59:49 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.7979ms
+
+19:59:49 [Information] () Request finished in 5.4462ms 200 application/json; charset=utf-8
+
+20:00:10 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:00:10 [Information] () Policy execution successful.
+
+20:00:10 [Information] () Request finished in 1.0552ms 204 
+
+20:00:10 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:00:10 [Information] () Policy execution successful.
+
+20:00:10 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:00:10 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:00:10 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:00:10 [Information] () Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:00:10 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 5.795ms.
+
+20:00:10 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:00:10 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 7.1766ms
+
+20:00:10 [Information] () Request finished in 8.0163ms 200 application/json; charset=utf-8
+
+20:00:20 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:00:20 [Information] () Policy execution successful.
+
+20:00:20 [Information] () Request finished in 0.3882ms 204 
+
+20:00:20 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:00:20 [Information] () Policy execution successful.
+
+20:00:20 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:00:20 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:00:20 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:00:20 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:00:20 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 4.3248ms.
+
+20:00:20 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:00:20 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.9553ms
+
+20:00:20 [Information] () Request finished in 8.1868ms 200 application/json; charset=utf-8
+
+20:00:31 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:00:31 [Information] () Policy execution successful.
+
+20:00:31 [Information] () Request finished in 0.5405ms 204 
+
+20:00:31 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:00:31 [Information] () Policy execution successful.
+
+20:00:31 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:00:31 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:00:31 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:00:31 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:00:31 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.8368ms.
+
+20:00:31 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:00:31 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.8381ms
+
+20:00:31 [Information] () Request finished in 6.7367ms 200 application/json; charset=utf-8
+
+20:03:04 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:03:04 [Information] () Policy execution successful.
+
+20:03:04 [Information] () Request finished in 0.4398ms 204 
+
+20:03:04 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:03:04 [Information] () Policy execution successful.
+
+20:03:04 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:03:04 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:03:04 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:03:04 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:03:04 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.9979ms.
+
+20:03:04 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:03:04 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 42.3694ms
+
+20:03:04 [Information] () Request finished in 44.3588ms 200 application/json; charset=utf-8
+
+20:04:35 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:04:35 [Information] () Policy execution successful.
+
+20:04:35 [Information] () Request finished in 0.6563ms 204 
+
+20:04:35 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:04:35 [Information] () Policy execution successful.
+
+20:04:35 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:04:35 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:04:35 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:04:35 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:04:35 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 6.8378ms.
+
+20:04:35 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:04:35 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 7.7214ms
+
+20:04:35 [Information] () Request finished in 11.7933ms 200 application/json; charset=utf-8
+
+20:04:38 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:04:38 [Information] () Policy execution successful.
+
+20:04:38 [Information] () Request finished in 8.8243ms 204 
+
+20:04:38 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:04:38 [Information] () Policy execution successful.
+
+20:04:38 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:04:38 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:04:38 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:04:38 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:04:38 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.6079ms.
+
+20:04:38 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:04:38 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.6565ms
+
+20:04:38 [Information] () Request finished in 4.4275ms 200 application/json; charset=utf-8
+
+20:06:21 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:06:21 [Information] () Policy execution successful.
+
+20:06:21 [Information] () Request finished in 0.4776ms 204 
+
+20:06:21 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:06:21 [Information] () Policy execution successful.
+
+20:06:21 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:06:21 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:06:21 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:06:21 [Information] () Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:06:21 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 9.7087ms.
+
+20:06:21 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:06:21 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 11.5309ms
+
+20:06:21 [Information] () Request finished in 12.745ms 200 application/json; charset=utf-8
+
+20:07:37 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:07:37 [Information] () Policy execution successful.
+
+20:07:37 [Information] () Request finished in 26.7877ms 204 
+
+20:07:37 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:07:37 [Information] () Policy execution successful.
+
+20:07:37 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:07:37 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:07:37 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:07:37 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:07:37 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.9248ms.
+
+20:07:37 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:07:37 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.2119ms
+
+20:07:37 [Information] () Request finished in 6.0285ms 200 application/json; charset=utf-8
+
+20:08:50 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:08:50 [Information] () Policy execution successful.
+
+20:08:50 [Information] () Request finished in 19.6423ms 204 
+
+20:08:50 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:08:50 [Information] () Policy execution successful.
+
+20:08:50 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:08:50 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:08:50 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:08:50 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:08:50 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.2212ms.
+
+20:08:50 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:08:50 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.1995ms
+
+20:08:50 [Information] () Request finished in 4.0362ms 200 application/json; charset=utf-8
+
+20:10:39 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:10:39 [Information] () Policy execution successful.
+
+20:10:39 [Information] () Request finished in 0.7062ms 204 
+
+20:10:39 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:10:39 [Information] () Policy execution successful.
+
+20:10:39 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:10:39 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:10:39 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:10:39 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:10:39 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.0134ms.
+
+20:10:39 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:10:39 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 6.0105ms
+
+20:10:39 [Information] () Request finished in 14.0435ms 200 application/json; charset=utf-8
+
+20:11:17 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:11:17 [Information] () Policy execution successful.
+
+20:11:17 [Information] () Request finished in 1.3434ms 204 
+
+20:11:17 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:11:17 [Information] () Policy execution successful.
+
+20:11:17 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:11:17 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:11:17 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:11:17 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:11:17 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.7035ms.
+
+20:11:17 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:11:17 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 7.5616ms
+
+20:11:17 [Information] () Request finished in 8.4303ms 200 application/json; charset=utf-8
+
+20:18:16 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:18:16 [Information] () Policy execution successful.
+
+20:18:16 [Information] () Request finished in 0.6803ms 204 
+
+20:18:16 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:18:16 [Information] () Policy execution successful.
+
+20:18:16 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:18:16 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:18:16 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:18:17 [Information] () Executed DbCommand ("34"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:18:17 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 619.5736ms.
+
+20:18:17 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:18:17 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 621.1251ms
+
+20:18:17 [Information] () Request finished in 624.1437ms 200 application/json; charset=utf-8
+
+20:19:02 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:19:02 [Information] () Policy execution successful.
+
+20:19:02 [Information] () Request finished in 2.9316ms 204 
+
+20:19:02 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:19:02 [Information] () Policy execution successful.
+
+20:19:02 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:19:02 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:19:02 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:19:02 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:19:02 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 5.3626ms.
+
+20:19:02 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:19:02 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 11.1807ms
+
+20:19:02 [Information] () Request finished in 13.905ms 200 application/json; charset=utf-8
+
+20:20:11 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:20:11 [Information] () Policy execution successful.
+
+20:20:11 [Information] () Request finished in 0.5638ms 204 
+
+20:20:11 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:20:11 [Information] () Policy execution successful.
+
+20:20:11 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:20:11 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:20:11 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:20:11 [Information] () Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:20:11 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 13.9641ms.
+
+20:20:11 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:20:11 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 34.0775ms
+
+20:20:11 [Information] () Request finished in 36.3ms 200 application/json; charset=utf-8
+
+20:24:17 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:24:17 [Information] () Policy execution successful.
+
+20:24:17 [Information] () Request finished in 9.7304ms 204 
+
+20:24:17 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:24:17 [Information] () Policy execution successful.
+
+20:24:17 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:24:17 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:24:17 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:24:17 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:24:17 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.7846ms.
+
+20:24:17 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:24:17 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.9461ms
+
+20:24:17 [Information] () Request finished in 17.5622ms 200 application/json; charset=utf-8
+
+20:27:54 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:27:54 [Information] () Policy execution successful.
+
+20:27:54 [Information] () Request finished in 0.665ms 204 
+
+20:27:54 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:27:54 [Information] () Policy execution successful.
+
+20:27:54 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:27:54 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:27:54 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:27:54 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:27:54 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 6.1939ms.
+
+20:27:54 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:27:54 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 8.3925ms
+
+20:27:54 [Information] () Request finished in 9.1233ms 200 application/json; charset=utf-8
+
+20:30:38 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:30:38 [Information] () Policy execution successful.
+
+20:30:38 [Information] () Request finished in 0.653ms 204 
+
+20:30:38 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:30:38 [Information] () Policy execution successful.
+
+20:30:38 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:30:38 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:30:38 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:30:38 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:30:38 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.8807ms.
+
+20:30:38 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:30:38 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 124.9083ms
+
+20:30:38 [Information] () Request finished in 141.6669ms 200 application/json; charset=utf-8
+
+20:30:45 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:30:45 [Information] () Policy execution successful.
+
+20:30:45 [Information] () Request finished in 0.3121ms 204 
+
+20:30:45 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:30:45 [Information] () Policy execution successful.
+
+20:30:45 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:30:45 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:30:45 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:30:45 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:30:45 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 3.0692ms.
+
+20:30:45 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:30:45 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.1943ms
+
+20:30:45 [Information] () Request finished in 4.8424ms 200 application/json; charset=utf-8
+
+20:31:16 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:31:16 [Information] () Policy execution successful.
+
+20:31:16 [Information] () Request finished in 1.3146ms 204 
+
+20:31:16 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:31:16 [Information] () Policy execution successful.
+
+20:31:16 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:31:16 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:31:16 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:31:16 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:31:16 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 5.474ms.
+
+20:31:16 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:31:16 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 7.3398ms
+
+20:31:16 [Information] () Request finished in 8.4934ms 200 application/json; charset=utf-8
+
+20:32:17 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:32:17 [Information] () Policy execution successful.
+
+20:32:17 [Information] () Request finished in 0.3759ms 204 
+
+20:32:17 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:32:17 [Information] () Policy execution successful.
+
+20:32:17 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:32:17 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:32:17 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:32:17 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:32:17 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 2.7858ms.
+
+20:32:17 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:32:17 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.0621ms
+
+20:32:17 [Information] () Request finished in 4.9458ms 200 application/json; charset=utf-8
+
+20:32:29 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:32:29 [Information] () Policy execution successful.
+
+20:32:29 [Information] () Request finished in 2.3313ms 204 
+
+20:32:29 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 41
+
+20:32:29 [Information] () Policy execution successful.
+
+20:32:29 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:32:29 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:32:29 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:32:29 [Information] () Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:32:29 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 4.0921ms.
+
+20:32:29 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:32:29 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.6868ms
+
+20:32:29 [Information] () Request finished in 6.3574ms 404 application/json; charset=utf-8
+
+20:32:31 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:32:31 [Information] () Policy execution successful.
+
+20:32:31 [Information] () Request finished in 0.3508ms 204 
+
+20:32:31 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 41
+
+20:32:31 [Information] () Policy execution successful.
+
+20:32:31 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:32:31 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:32:31 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:32:31 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:32:31 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 4.4986ms.
+
+20:32:31 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:32:31 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.3997ms
+
+20:32:31 [Information] () Request finished in 6.0304ms 404 application/json; charset=utf-8
+
+20:35:00 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:35:00 [Information] () Policy execution successful.
+
+20:35:00 [Information] () Request finished in 0.3989ms 204 
+
+20:35:00 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 38
+
+20:35:00 [Information] () Policy execution successful.
+
+20:35:00 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:35:00 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:35:00 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:35:00 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:35:00 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 3.1107ms.
+
+20:35:00 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:35:00 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.076ms
+
+20:35:00 [Information] () Request finished in 5.9509ms 404 application/json; charset=utf-8
+
+20:35:13 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:35:13 [Information] () Policy execution successful.
+
+20:35:13 [Information] () Request finished in 0.418ms 204 
+
+20:35:13 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 44
+
+20:35:13 [Information] () Policy execution successful.
+
+20:35:13 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:35:13 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:35:13 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:35:13 [Information] () Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:35:13 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 8.6939ms.
+
+20:35:13 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:35:13 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 10.3477ms
+
+20:35:13 [Information] () Request finished in 11.0824ms 404 application/json; charset=utf-8
+
+20:36:13 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:36:13 [Information] () Policy execution successful.
+
+20:36:13 [Information] () Request finished in 0.3296ms 204 
+
+20:36:13 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 38
+
+20:36:13 [Information] () Policy execution successful.
+
+20:36:13 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:36:13 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:36:13 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:36:13 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:36:13 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 4.1492ms.
+
+20:36:13 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:36:13 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.9513ms
+
+20:36:13 [Information] () Request finished in 6.4265ms 404 application/json; charset=utf-8
+
+20:43:07 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:43:07 [Information] () Policy execution successful.
+
+20:43:07 [Information] () Request finished in 0.52ms 204 
+
+20:43:07 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 41
+
+20:43:07 [Information] () Policy execution successful.
+
+20:43:07 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:43:07 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:43:07 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:43:08 [Information] () Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:43:08 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 178.334ms.
+
+20:43:08 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:43:08 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 179.6621ms
+
+20:43:08 [Information] () Request finished in 180.4476ms 404 application/json; charset=utf-8
+
+20:44:16 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:44:16 [Information] () Policy execution successful.
+
+20:44:16 [Information] () Request finished in 14.1804ms 204 
+
+20:44:16 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 40
+
+20:44:16 [Information] () Policy execution successful.
+
+20:44:16 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:44:16 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:44:16 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:44:16 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:44:16 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 3.0077ms.
+
+20:44:16 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:44:16 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 4.0871ms
+
+20:44:16 [Information] () Request finished in 8.7222ms 404 application/json; charset=utf-8
+
+20:44:55 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:44:55 [Information] () Policy execution successful.
+
+20:44:55 [Information] () Request finished in 1.328ms 204 
+
+20:44:55 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 39
+
+20:44:55 [Information] () Policy execution successful.
+
+20:44:55 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:44:55 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:44:55 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:44:55 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:44:55 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 4.2768ms.
+
+20:44:55 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:44:55 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 5.3795ms
+
+20:44:55 [Information] () Request finished in 6.0136ms 404 application/json; charset=utf-8
+
+20:45:58 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:45:58 [Information] () Policy execution successful.
+
+20:45:58 [Information] () Request finished in 4.2644ms 204 
+
+20:45:58 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 39
+
+20:45:58 [Information] () Policy execution successful.
+
+20:45:58 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:45:58 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:45:58 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:45:58 [Information] () Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:45:58 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.NotFoundObjectResult" in 2.753ms.
+
+20:45:58 [Information] () Executing ObjectResult, writing value of type '"System.String"'.
+
+20:45:58 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 3.6975ms
+
+20:45:58 [Information] () Request finished in 4.3699ms 404 application/json; charset=utf-8
+
+20:46:07 [Information] () Request starting HTTP/1.1 OPTIONS http://localhost:60937/api/user/authenticate  
+
+20:46:07 [Information] () Policy execution successful.
+
+20:46:07 [Information] () Request finished in 0.4531ms 204 
+
+20:46:07 [Information] () Request starting HTTP/1.1 POST http://localhost:60937/api/user/authenticate application/json 45
+
+20:46:07 [Information] () Policy execution successful.
+
+20:46:07 [Information] () Route matched with "{action = \"Authenticate\", controller = \"User\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Authenticate(Models.LoginModel)" on controller "WebApiLibrary.Controllers.UserController" ("WebApiLibrary").
+
+20:46:07 [Information] () Executing action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" - Validation state: Valid
+
+20:46:07 [Information] () Entity Framework Core "2.1.11-servicing-32099" initialized '"LibraryAppDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+
+20:46:07 [Information] () Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [u].[Id], [u].[FirstName], [u].[LastName], [u].[Password], [u].[Username]
+FROM [Users] AS [u]"
+
+20:46:07 [Information] () Executed action method "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.OkObjectResult" in 4.2197ms.
+
+20:46:07 [Information] () Executing ObjectResult, writing value of type '"Models.UserModel"'.
+
+20:46:07 [Information] () Executed action "WebApiLibrary.Controllers.UserController.Authenticate (WebApiLibrary)" in 19.2447ms
+
+20:46:07 [Information] () Request finished in 19.974ms 200 application/json; charset=utf-8
+
+22:05:06 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+22:05:07 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+22:05:07 [Information] () Request finished in 53.882ms 200 
+
+22:05:08 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+22:05:08 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+22:05:08 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+22:05:08 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 0.4253ms.
+
+22:05:08 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+22:05:09 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 168.5333ms
+
+22:05:09 [Information] () Request finished in 741.8029ms 200 application/json; charset=utf-8
+
+22:05:09 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+22:05:09 [Information] () Request finished in 1.7536ms 404 
+
+22:11:16 [Information] () User profile is available. Using '"C:\Users\Stojmilova\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+22:11:17 [Information] () Request starting HTTP/1.1 DEBUG http://localhost:60937/  0
+
+22:11:17 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/api/values  
+
+22:11:17 [Information] () Request finished in 59.4858ms 200 
+
+22:11:17 [Information] () Route matched with "{action = \"Get\", controller = \"Values\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get()" on controller "WebApiLibrary.Controllers.ValuesController" ("WebApiLibrary").
+
+22:11:17 [Information] () Executing action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" - Validation state: Valid
+
+22:11:17 [Information] () Executed action method "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)", returned result "Microsoft.AspNetCore.Mvc.ObjectResult" in 1.0598ms.
+
+22:11:17 [Information] () Executing ObjectResult, writing value of type '"System.String[]"'.
+
+22:11:17 [Information] () Executed action "WebApiLibrary.Controllers.ValuesController.Get (WebApiLibrary)" in 161.9934ms
+
+22:11:17 [Information] () Request finished in 651.3941ms 200 application/json; charset=utf-8
+
+22:11:17 [Information] () Request starting HTTP/1.1 GET http://localhost:60937/favicon.ico  
+
+22:11:17 [Information] () Request finished in 1.6705ms 404 

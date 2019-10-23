@@ -1,0 +1,51 @@
+﻿
+.app-layout {
+    background: url("https://fueled.com/wp-content/uploads/2018/08/sharon-mccutcheon-532782-unsplash-768x512.jpg") no-repeat;
+    background-size: 100% 100%;
+}
+
+.background {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    right: 0;
+    overflow: hidden;
+    margin: 0;
+}
+.firstNote {
+    color: red;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-style: italic;
+}
+.secondNote {
+    color: red;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: 50px;
+    font-style: italic;
+}
+.thirdNote {
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-style: italic;
+}
+.fourNote {
+    color: red;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
+    font-style: italic;
+}
+.fiveNote {
+    color: red;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 40px;
+    font-style: italic;
+}
+
+

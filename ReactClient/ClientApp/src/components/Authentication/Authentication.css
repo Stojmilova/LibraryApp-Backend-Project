@@ -1,0 +1,23 @@
+﻿
+.auth-form {
+    margin-top: 40px;
+    overflow:hidden;
+    width: auto;
+}
+
+.auth-label {
+    font-size: 16px;
+    color: #61666b;
+}
+.auth-title {
+    color: #61666b;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.auth-btn {
+    margin-left: 150px;
+    margin-top: 10px;
+}
